@@ -1,4 +1,4 @@
-package pert5;
+package P5;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
